@@ -1,0 +1,27 @@
+{
+  "name": "3dit",
+  "version": "1.0.0",
+  "description": "advance edit distance",
+  "main": "fuzzymatch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lvrach/3dit.git"
+  },
+  "keywords": [
+    "edit",
+    "distance",
+    "levenshtein"
+  ],
+  "author": "Leonidas Vrachnis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvrach/3dit/issues"
+  },
+  "homepage": "https://github.com/lvrach/3dit",
+  "dependencies": {
+    "bson": "^0.2.15"
+  }
+}
